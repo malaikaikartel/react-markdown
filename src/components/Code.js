@@ -28,7 +28,12 @@ const Code = ({ children, language }) => {
         style={isDark ? materialDark : materialLight}
       >
         {children}
-      </SyntaxHighlighter>
+      </SyntaxHighlighter><ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6389784149267865"
+     data-ad-slot="6486641123"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
     </div>
   )
 }
