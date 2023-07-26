@@ -7,6 +7,8 @@ const Header = () => {
 
   return (
     <header className="header">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6389784149267865"
+     crossorigin="anonymous"></script>
       <div className="container">
         <div className="logo-wrapper">
           <div className="logo">
